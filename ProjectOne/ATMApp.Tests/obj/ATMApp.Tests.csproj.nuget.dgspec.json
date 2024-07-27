@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ellen\\Desktop\\ATMProject2\\ProjectOne\\ATMApp.Tests\\ATMApp.Tests.csproj": {}
+    "C:\\Users\\Ellen\\Desktop\\ATMProject2\\Ellen Clark\\ProjectOne\\ATMApp.Tests\\ATMApp.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ellen\\Desktop\\ATMProject2\\ProjectOne\\ATMApp.Tests\\ATMApp.Tests.csproj": {
+    "C:\\Users\\Ellen\\Desktop\\ATMProject2\\Ellen Clark\\ProjectOne\\ATMApp.Tests\\ATMApp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ellen\\Desktop\\ATMProject2\\ProjectOne\\ATMApp.Tests\\ATMApp.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Ellen\\Desktop\\ATMProject2\\Ellen Clark\\ProjectOne\\ATMApp.Tests\\ATMApp.Tests.csproj",
         "projectName": "ATMApp.Tests",
-        "projectPath": "C:\\Users\\Ellen\\Desktop\\ATMProject2\\ProjectOne\\ATMApp.Tests\\ATMApp.Tests.csproj",
+        "projectPath": "C:\\Users\\Ellen\\Desktop\\ATMProject2\\Ellen Clark\\ProjectOne\\ATMApp.Tests\\ATMApp.Tests.csproj",
         "packagesPath": "C:\\Users\\Ellen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ellen\\Desktop\\ATMProject2\\ProjectOne\\ATMApp.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Ellen\\Desktop\\ATMProject2\\Ellen Clark\\ProjectOne\\ATMApp.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ellen\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Ellen\\Desktop\\ATMProject2\\ProjectOne\\ATMApp\\ATMApp.csproj": {
-                "projectPath": "C:\\Users\\Ellen\\Desktop\\ATMProject2\\ProjectOne\\ATMApp\\ATMApp.csproj"
+              "C:\\Users\\Ellen\\Desktop\\ATMProject2\\Ellen Clark\\ProjectOne\\ATMApp\\ATMApp.csproj": {
+                "projectPath": "C:\\Users\\Ellen\\Desktop\\ATMProject2\\Ellen Clark\\ProjectOne\\ATMApp\\ATMApp.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\Ellen\\Desktop\\ATMProject2\\ProjectOne\\ATMApp\\ATMApp.csproj": {
+    "C:\\Users\\Ellen\\Desktop\\ATMProject2\\Ellen Clark\\ProjectOne\\ATMApp\\ATMApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ellen\\Desktop\\ATMProject2\\ProjectOne\\ATMApp\\ATMApp.csproj",
+        "projectUniqueName": "C:\\Users\\Ellen\\Desktop\\ATMProject2\\Ellen Clark\\ProjectOne\\ATMApp\\ATMApp.csproj",
         "projectName": "ATMApp",
-        "projectPath": "C:\\Users\\Ellen\\Desktop\\ATMProject2\\ProjectOne\\ATMApp\\ATMApp.csproj",
+        "projectPath": "C:\\Users\\Ellen\\Desktop\\ATMProject2\\Ellen Clark\\ProjectOne\\ATMApp\\ATMApp.csproj",
         "packagesPath": "C:\\Users\\Ellen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ellen\\Desktop\\ATMProject2\\ProjectOne\\ATMApp\\obj\\",
+        "outputPath": "C:\\Users\\Ellen\\Desktop\\ATMProject2\\Ellen Clark\\ProjectOne\\ATMApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ellen\\AppData\\Roaming\\NuGet\\NuGet.Config"

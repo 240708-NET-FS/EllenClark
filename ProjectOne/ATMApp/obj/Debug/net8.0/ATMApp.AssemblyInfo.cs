@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ATMApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6327c5cf51d333f9efbd1c5c3eb4b8dc99aa38f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f102aa57a85d6c6bef87d0670f0ea27ae84971c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ATMApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ATMApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
